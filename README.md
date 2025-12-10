@@ -1,5 +1,5 @@
-## Hey there, I am Rafi
-### I am a student from Austria.
+<h1 align="center">I´m Rafi</h1>
+<h3 align="center">A student from Austria and hobby Webdeveloper</h3>
 
 I’m currently studying Java at school. Outside of class, I enjoy programming my own websites for fun and hosting them on my Raspberry Pis. 
 
