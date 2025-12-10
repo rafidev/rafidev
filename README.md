@@ -1,5 +1,7 @@
 ## Hey there, I am Rafi
-### I am a Student from Autria
+### I am a student from Austria.
+
+I’m currently studying Java at school. Outside of class, I enjoy programming my own websites for fun and hosting them on my Raspberry Pis. 
 
 #### Programming Languages
 
@@ -25,3 +27,4 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
 </div>
+
