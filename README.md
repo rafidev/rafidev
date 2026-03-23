@@ -1,4 +1,4 @@
-<h1 align="center">I´m Rafi</h1> <a href="https://rafilaos.vip"><img alt="Visit rafilaos.vip" src="https://img.shields.io/badge/Visit%20Site-rafilaos.vip-4CAF50?style=flat-square&logo=google-chrome&logoColor=white" height="20" /></a>
+<h1 align="center">Hey, I´m Rafi</h1> <a href="https://rafilaos.vip"><img alt="Visit rafilaos.vip" src="https://img.shields.io/badge/Visit%20Site-rafilaos.vip-4CAF50?style=flat-square&logo=google-chrome&logoColor=white" height="20" /></a>
 <h3 align="center">A student from Austria and hobby Webdeveloper</h3>
 
 I’m currently studying Java at school. Outside of class, I enjoy programming my own websites for fun and hosting them on my Raspberry Pis. 
@@ -18,8 +18,6 @@ I’m currently studying Java at school. Outside of class, I enjoy programming m
 </h4>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="70" height="70"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="70" height="70"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="70" height="70"/>
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="70" height="70"/>
 </p>
 
